@@ -1,0 +1,36 @@
+Kode Buku: 1
+Judul Buku: Harga Sebuah Percaya
+Pengarang Buku: Tere Liye
+Tahun Terbit Buku: 2017
+Halaman Buku: 302
+Penerbit Buku: Mahaka Publishing
+Kategori Buku: Novel
+Cover Buku: cover/1_Tere Liye_Harga Sebuah Percaya.jpg
+
+Kode Buku: 2
+Judul Buku: Pergi
+Pengarang Buku: Tere Liye
+Tahun Terbit Buku: 2018
+Halaman Buku: 459
+Penerbit Buku: Republika Penerbit
+Kategori Buku: Novel
+Cover Buku: cover/2_Tere Liye_Pergi.jpg
+
+Kode Buku: 3
+Judul Buku: Si Anak Badai
+Pengarang Buku: Tere Liye
+Tahun Terbit Buku: 2018
+Halaman Buku: 421
+Penerbit Buku: Republika Penerbit
+Kategori Buku: Novel
+Cover Buku: cover/3_Tere Liye_Si Anak Badai.jpg
+
+Kode Buku: 4
+Judul Buku: Pulang
+Pengarang Buku: Tere Liye
+Tahun Terbit Buku: 2018
+Halaman Buku: 406
+Penerbit Buku: Republika Penerbit
+Kategori Buku: Novel
+Cover Buku: cover/4_Tere Liye_Pulang.jpg
+

@@ -1,0 +1,9 @@
+Kode Buku: 3
+Judul Buku: Si Anak Badai
+Pengarang Buku: Tere Liye
+Tahun Terbit Buku: 2018
+Halaman Buku: 421
+Penerbit Buku: Republika Penerbit
+Kategori Buku: Novel
+Cover Buku: cover/3_Tere Liye_Si Anak Badai.jpg
+
