@@ -1,9 +1,0 @@
-Kode Buku: 4
-Judul Buku: Pulang
-Pengarang Buku: Tere Liye
-Tahun Terbit Buku: 2018
-Halaman Buku: 406
-Penerbit Buku: Republika Penerbit
-Kategori Buku: Novel
-Cover Buku: cover/4_Tere Liye_Pulang.jpg
-
