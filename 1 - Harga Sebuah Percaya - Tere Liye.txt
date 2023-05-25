@@ -1,9 +1,0 @@
-Kode Buku: 1
-Judul Buku: Harga Sebuah Percaya
-Pengarang Buku: Tere Liye
-Tahun Terbit Buku: 2017
-Halaman Buku: 302
-Penerbit Buku: Mahaka Publishing
-Kategori Buku: Novel
-Cover Buku: cover/1_Tere Liye_Harga Sebuah Percaya.jpg
-
